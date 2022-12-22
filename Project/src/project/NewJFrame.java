@@ -490,8 +490,8 @@ if (1<2)
         } catch (Exception ex) {
             Logger.getLogger(ItemsTable.getName()).log(Level.SEVERE, null, ex);
         }
-        
-        
+
+
     }//GEN-LAST:event_InvoiceTableMouseClicked
 
     private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
